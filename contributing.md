@@ -33,6 +33,8 @@ This website is meant to showcase the excellent work being done to make archaeol
 
 Please open a [GitHub Issue](https://github.com/open-archaeo/diamond.open-archaeo.info/issues) to share any critical feedback or to suggest any new features.
 
+The project can be referenced using the following DOI: [10.5281/zenodo.15026607](https://doi.org/10.5281/zenodo.15026607)
+
 ## Similar Work
 This project overlaps with a few other similar initiatives, including:
 

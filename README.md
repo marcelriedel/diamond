@@ -1,4 +1,6 @@
 # Diamond Open Archaeology
+[![](https://zenodo.org/badge/DOI/10.5281/zenodo.15026607.svg)](https://doi.org/10.5281/zenodo.15026607)
+
 This is a collection diamond open access archaeology journals.
 Diamond journals are free to read and to publish in, and are therefore the most equitable venues to publish your work.
 
