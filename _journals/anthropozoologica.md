@@ -1,4 +1,4 @@
-```
+---
 title: Anthropozoologica
 subtitle: NA
 model: diamond
@@ -7,7 +7,7 @@ peer-reviewed: true
 website: https://sciencepress.mnhn.fr/fr/periodiques/anthropozoologica
 issn: NA
 publisher: Museum National d'Histoire Naturelle
-languages : 
--  fr
--  en
-```
+languages:
+- fr
+- en
+---

@@ -1,4 +1,4 @@
-```
+---
 title: Current Swedish Archaeology
 subtitle: NA
 model: diamond
@@ -7,6 +7,6 @@ peer-reviewed: true
 website: https://publicera.kb.se/csa/index
 issn: 2002-3901
 publisher: Swedish Archaeological Society
-languages : 
--  en
-```
+languages:
+- en
+---

@@ -1,4 +1,4 @@
-```
+---
 title: Virtual Archaeology Review
 subtitle: NA
 model: diamond
@@ -7,7 +7,7 @@ peer-reviewed: true
 website: https://polipapers.upv.es/index.php/var
 issn: 1989-9947
 publisher: PoliPapers - Universitat Politecnica de Valencia
-languages : 
--  en
--  es
-```
+languages:
+- en
+- es
+---

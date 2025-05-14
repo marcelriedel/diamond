@@ -1,4 +1,4 @@
-```
+---
 title: Quaternaire
 subtitle: NA
 model: diamond
@@ -7,7 +7,7 @@ peer-reviewed: true
 website: https://journals.openedition.org/quaternaire/
 issn: 1965-0795
 publisher: Association française pour l'étude du quaternaire
-languages : 
--  fr
--  en
-```
+languages:
+- fr
+- en
+---
