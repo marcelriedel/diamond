@@ -1,12 +1,13 @@
----
-title: Bulletins et mémoires de la société d'anthropologie de Paris
+```
+title: Bulletins et mémoires de la Société d’Anthropologie de Paris
+subtitle: NA
 model: diamond
-embargo: 12
-peer_reviewed: true
+embargo: 0
+peer-reviewed: true
 website: https://journals.openedition.org/bmsap/
-issn: 1777-5469
-publisher: Société d'Anthropologie de Paris
-languages:
-- fr
-- en
----
+issn: 0037-8984
+publisher: OpenEdition - Société d'Anthropologie de Paris
+languages : 
+-  fr
+-  en
+```
