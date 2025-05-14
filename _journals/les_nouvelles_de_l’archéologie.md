@@ -7,5 +7,7 @@ peer-reviewed: true
 website: https://journals.openedition.org/nda/
 issn: 0242-7702
 publisher: OpenEdition - Éditions de la Maison des sciences de l’homme
-languages: fr, en
+languages : 
+-  fr
+-  en
 ```

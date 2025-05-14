@@ -7,5 +7,6 @@ peer-reviewed: true
 website: http://beadresearchjournal.org/
 issn: 0843-5499
 publisher: The Society of Bead Researchers
-languages: en
+languages : 
+-  en
 ```

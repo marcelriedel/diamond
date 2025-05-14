@@ -7,5 +7,6 @@ peer-reviewed: true
 website: https://journals.openedition.org/gallia/
 issn: 0016-4119
 publisher: CNRS
-languages: fr
+languages : 
+-  fr
 ```

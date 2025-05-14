@@ -7,5 +7,11 @@ peer-reviewed: true
 website: https://aespa.revistas.csic.es/
 issn: 0066-6742
 publisher: CSIC - Instituto de Historia del CCHS
-languages: sp, en, fr, pt, de, it
+languages : 
+-  es
+-  en
+-  fr
+-  pt
+-  de
+-  it
 ```

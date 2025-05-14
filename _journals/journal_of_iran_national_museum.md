@@ -7,5 +7,7 @@ peer-reviewed: true
 website: https://jinm.irannationalmuseum.ir/?lang=en
 issn: 2783-2228
 publisher: Iran National Museum
-languages: en, fa
+languages : 
+-  en
+-  fa
 ```

@@ -7,5 +7,8 @@ peer-reviewed: true
 website: https://revistas.uniandes.edu.co/index.php/antipoda
 issn: 1900-5407
 publisher: School of Social Sciences of the Universidad de los Andes
-languages: en, sp, pt
+languages : 
+-  en
+-  es
+-  pt
 ```

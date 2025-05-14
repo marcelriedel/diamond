@@ -7,5 +7,7 @@ peer-reviewed: true
 website: https://www.prehistory.org.il/en/mitkufat-haeven/
 issn: 0334-3839
 publisher: Israel Prehistoric Society
-languages: en, fr
+languages : 
+-  en
+-  fr
 ```

@@ -7,5 +7,7 @@ peer-reviewed: true
 website: https://boletinmuseoprecolombino.cl/
 issn: 0718-6894
 publisher: Universidad Adolfo Ibanez
-languages: en, sp
+languages : 
+-  en
+-  es
 ```

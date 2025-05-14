@@ -7,5 +7,9 @@ peer-reviewed: true
 website: https://journals.openedition.org/jsa/
 issn:  0037-9174
 publisher: OpenEdition - Société des Américanistes
-languages: fr, en, sp, pt
+languages : 
+-  fr
+-  en
+-  es
+-  pt
 ```

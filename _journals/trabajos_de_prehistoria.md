@@ -7,5 +7,8 @@ peer-reviewed: true
 website: https://tp.revistas.csic.es/index.php/tp
 issn: 1988-3218
 publisher: CSIC
-languages: en, sp, fr
+languages : 
+-  en
+-  es
+-  fr
 ```

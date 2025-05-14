@@ -7,5 +7,7 @@ peer-reviewed: true
 website: https://revistas.ucm.es/index.php/CMPL
 issn: 1131-6993
 publisher: Universidad Complutense
-languages: en, sp
+languages : 
+-  en
+-  es
 ```

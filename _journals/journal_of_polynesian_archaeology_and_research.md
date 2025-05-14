@@ -6,6 +6,7 @@ embargo: 0
 peer-reviewed: true
 website: https://uhpress.hawaii.edu/title/jpar/
 issn: NA
-publisher: University of Hawaii Press - Easter Island Foundation + Society for Hawaiian Archaeology
-languages: en
+publisher: University of Hawai'i Press - Easter Island Foundation + Society for Hawaiian Archaeology
+languages : 
+-  en
 ```

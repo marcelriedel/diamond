@@ -7,5 +7,7 @@ peer-reviewed: true
 website: https://journals.openedition.org/galliap/
 issn: 0016-4127
 publisher: OpenEdition - CNRS
-languages: fr, en
+languages : 
+-  fr
+-  en
 ```

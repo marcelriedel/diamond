@@ -7,5 +7,9 @@ peer-reviewed: true
 website: https://revues.imist.ma/index.php/bam
 issn: 0068-4015
 publisher: Institut National des Sciences de l'Archéologie et du Patrimoine
-languages: en, ar, fr, sp
+languages : 
+-  en
+-  ar
+-  fr
+-  es
 ```
