@@ -1,13 +1,11 @@
----
+```
 title: Quaternaire
-subtitle: Revue de l'Association française pour l'étude du Quaternaire
+subtitle: NA
 model: diamond
-embargo: 12
-peer_reviewed: true
+embargo: 0
+peer-reviewed: true
 website: https://journals.openedition.org/quaternaire/
 issn: 1965-0795
 publisher: Association française pour l'étude du quaternaire
-languages:
-- fr
-- en
----
+languages: fr, en
+```

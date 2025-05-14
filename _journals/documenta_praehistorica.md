@@ -1,10 +1,11 @@
----
+```
 title: Documenta Praehistorica
+subtitle: NA
 model: diamond
-peer_reviewed: yes
+embargo: 0
+peer-reviewed: true
 website: https://journals.uni-lj.si/DocumentaPraehistorica/index
-issn: 1854-2492
-publisher: University of Ljubljana Press
-languages:
-- en
----
+issn: 1408-967X
+publisher: University of Ljubljana Press - Scientific Research Institute of the Faculty Of Arts
+languages: en
+```

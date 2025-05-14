@@ -1,13 +1,11 @@
----
+```
 title: Gallia Préhistoire
-subtitle: Préhistoire de la France dans son contexte européen
+subtitle: NA
 model: diamond
-embargo: 12
-peer_reviewed: true
+embargo: 0
+peer-reviewed: true
 website: https://journals.openedition.org/galliap/
-issn: 2109-9642
-publisher: CNRS Editions
-languages:
-- fr
-- en
----
+issn: 0016-4127
+publisher: OpenEdition - CNRS
+languages: fr, en
+```
