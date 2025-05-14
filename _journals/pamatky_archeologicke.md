@@ -1,4 +1,4 @@
-```
+---
 title: Pamatky Archeologicke
 subtitle: NA
 model: diamond
@@ -7,9 +7,9 @@ peer-reviewed: true
 website: https://www.arup.cas.cz/publikace/pamatky-archeologicke/
 issn: NA
 publisher: Institute of Archaeology of the CAS Prague
-languages : 
--  en
--  cz
--  de
--  sl
-```
+languages:
+- en
+- cz
+- de
+- sl
+---

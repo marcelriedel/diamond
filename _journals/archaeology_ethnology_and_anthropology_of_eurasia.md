@@ -1,4 +1,4 @@
-```
+---
 title: Archaeology, Ethnology and Anthropology of Eurasia
 subtitle: NA
 model: subscription
@@ -8,4 +8,4 @@ website: https://journal.archaeology.nsc.ru/jour
 issn: 1563-0110
 publisher: Russian Academy of Sciences
 languages: en, ru
-```
+---

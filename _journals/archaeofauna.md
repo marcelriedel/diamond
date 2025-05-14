@@ -1,4 +1,4 @@
-```
+---
 title: Archaeofauna
 subtitle: NA
 model: diamond
@@ -7,9 +7,9 @@ peer-reviewed: true
 website: https://revistas.uam.es/archaeofauna
 issn: 1132-6891
 publisher: Universidad Autónoma de Madrid - Asociacion Espanola de Arqueozoologia
-languages : 
--  en
--  es
--  fr
--  de
-```
+languages:
+- en
+- es
+- fr
+- de
+---
