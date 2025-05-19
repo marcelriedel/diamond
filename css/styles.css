@@ -48,6 +48,7 @@ button.sort:focus {
   content: "\2193";
 }
 
+/* Reponsive(ish) table */
 @media screen and (max-width: 720px) {
   .table-container {
     overflow-x:auto;
@@ -59,4 +60,11 @@ button.sort:focus {
     left: 0;
     z-index: 2;
   }
+}
+
+/* OA model icons */
+.model .icon sub {
+  position: relative;
+  left: -16px;
+  margin-right: -16px;
 }
