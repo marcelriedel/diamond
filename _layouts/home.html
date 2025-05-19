@@ -16,10 +16,19 @@ layout: base
 
       <article>
 
-        <p><noscript><small>Searching and sorting requires a Javascript-enabled browser!</small></noscript></p>
+        <p><noscript><small>Searching, filtering and sorting requires a Javascript-enabled browser.</small></noscript></p>
         <form role="search">
           <input type="search" class="search" placeholder="Filter..." disabled />
         </form>
+
+        <fieldset class="grid">
+
+          <label>
+            <input id="embargo-filter-control" name="embargo" type="checkbox" role="switch" class="filter" disabled />
+            Include embargoed
+          </label>
+
+        </fieldset>
 
         <div class=table-container>
           <table>
@@ -27,6 +36,7 @@ layout: base
               <th scope="col">
                 <button class="outline sort" data-sort="model" title="Sort by open access model" disabled></button>
               </th>
+              <th scope="col" class="journal-col" hidden>Embargo</th>
               <th scope="col" class="journal-col">
                 <strong>Journal</strong>
                 <button class="outline sort" data-sort="title" title="Sort by title" disabled></button>
@@ -46,6 +56,7 @@ layout: base
                   <td class="model center">
                     {% include model.html model=journal.model embargo=journal.embargo %}
                   </td>
+                  <td class="embargo" hidden>{{ journal.embargo }}</td>
                   <td class="title" data-title="{{ journal.title }}">
                     <cite>
                       <a href="{{ journal.website }}" title="{{ journal.title }} home page">
