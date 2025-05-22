@@ -1,9 +1,15 @@
 {% case include.model %}
   {% when "diamond" %}
-    <span role="img" class="icon" data-tooltip="Diamond open access" data-placement="left">💎</span>
+    {% if include.embargo > 0 %}
+      <span role="img" class="icon" data-tooltip="Diamond open access after embargo" data-placement="right">
+        💎<sub>⌛</sub>
+      </span>
+    {% else %}
+      <span role="img" class="icon" data-tooltip="Diamond open access" data-placement="right">💎</span>
+    {% endif %}
   {% when "gold" %}
-    <span role="img" class="icon" data-tooltip="Gold open access" data-placement="left">🪙</span>
+    <span role="img" class="icon" data-tooltip="Gold open access" data-placement="right">🪙</span>
   {% else %}
-    <span role="img" class="icon" data-tooltip="Unknown open access model" data-placement="left">❓</span>
+    <span role="img" class="icon" data-tooltip="Unknown open access model" data-placement="right">❓</span>
 {% endcase %}
 

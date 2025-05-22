@@ -11,6 +11,9 @@ Various models have emerged for achieving this aim, which are sustained in diffe
 These venues are usually community-run, and are typically funded through academic institutions, philanthropists or government grants.
 Diamond OA is sometimes also referred to as "Platinum" OA.
 
+⌛ **Embargoed**: some journals only make articles available in open access after an 'embargo' period, during which they are only accessible to subscribers.
+We filter these from our list by default, but they can be shown using the "Show embargoed" toggle.
+
 🌿 **Green OA** refers to self-archiving of research outputs in publicly-accessible institutional or subject repositories.
 Articles posted to a Green OA repository may, but must not necessarily, derive from traditional publishing protocols.
 This model therefore affords great flexibility.
